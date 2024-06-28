@@ -1,0 +1,17 @@
+{
+  "name": "chess.com-project",
+  "version": "1.0.0",
+  "description": "Chess.com Project using nodejs express js socket.io and chess.js engine",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rizwan Hussain",
+  "license": "ISC",
+  "dependencies": {
+    "chess.js": "^1.0.0-beta.8",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
